@@ -50,4 +50,4 @@ This project is a UI/UX design prototype created using Figma for a Movie Ticket 
 
 ### Booking Confirmation Screen
 
-(Add Screenshot)
+PROTOTYPE https://www.figma.com/proto/FeXRsuJv5f2drBNMl6cmvX/Untitled?node-id=44-549&t=cgB9z2jUtjdVCa1y-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=44%3A549&show-proto-sidebar=1
